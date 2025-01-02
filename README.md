@@ -1,7 +1,7 @@
 # File Management System - Setup Instructions
 
 ## Frontend Setup (ReactJS)
-1. Navigate to the `react-frontend` directory.
+1. Navigate to the `frontend` directory.
 2. Run the following command to install dependencies:
 ```bash
     npm install
@@ -12,7 +12,7 @@
 ```
 
 ## Backend Setup (Laravel)
-1. Navigate to the `laravel-api` directory.
+1. Navigate to the `backend` directory.
 2. Install dependencies using Composer:
 ```bash
    composer install
